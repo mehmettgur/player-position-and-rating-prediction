@@ -1,0 +1,17 @@
+[project]
+name = "soccer-rating"
+version = "0.1.0"
+description = "Modular pipeline for position labeling and overall rating prediction on European Soccer Database."
+authors = [{name="You", email="you@example.com"}]
+requires-python = ">=3.9"
+dependencies = [
+    "pandas>=2.0",
+    "numpy>=1.24",
+    "scikit-learn>=1.3",
+    "matplotlib>=3.8",
+    "pyarrow>=14.0",
+    "xgboost>=2.0",
+]
+[tool.setuptools]
+package-dir = {"" = "src"}
+packages = ["soccer_rating"]
