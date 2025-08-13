@@ -177,8 +177,8 @@ python scripts\feature_importance.py --data data\player_data_rule.parquet --out 
 
 ## 📄 Related Documents
 
-- **project_report.pdf** → The main project paper explaining the methodology, experiments, and results in detail.
-- **report_appendix.pdf** → Additional appendix with supporting figures, tables, and extended data used in the project.
+- **[Project Report](docs/project_report.pdf)** → Main paper with methodology, experiments, and results.  
+- **[Appendix](docs/project_appendix.pdf)** → Additional figures, tables, and extended data.
 
 These files are included in the repository for reference and further reading.
 
