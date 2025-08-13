@@ -133,7 +133,7 @@ feature_importance_heatmap("figs/feature_importance_M6.csv",
                            save_path="figs/feature_importance.png")
 ```
 
-Example outputs used in this README:
+Example outputs:
 
 ![model-comparison](figs/model_comparison.png)
 *Model comparison*
